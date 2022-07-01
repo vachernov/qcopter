@@ -23,3 +23,7 @@ Motor forces plot
 ## question 
 
 why system becomes unstable in long term?
+
+## answer
+
+mind TFs and signs 
